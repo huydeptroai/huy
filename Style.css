@@ -1,8 +1,8 @@
 /* menu chinh */
-/* nav{
+nav{
   justify-content:space-between;
   justify-items: center;
-} */
+}
 /* menu ben trai */
 .menu1{
   display: flex;
@@ -83,7 +83,7 @@
   color:black;
   right: -20px;
   bottom: 3px;
-  } */
+  }
 
 /* menu ban phai */
 .menu2{
